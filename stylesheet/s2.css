@@ -1,6 +1,6 @@
 body { 
   font-family: 'Open Sans', sans-serif;
-}
+  }
 
 /* STRUCTURE */
 
@@ -104,7 +104,6 @@ MEDIA QUERIES
 
 }
 
-
 #middle {
   	background: #6666;
   }
@@ -113,6 +112,11 @@ MEDIA QUERIES
 }
 #sidebar {
 	background: #FF7F24
+}
+ 
+  
+header, #content, #middle, #sidebar {
+	margin-bottom: 5px;
 }
 
 #pagewrap, header, #content, #middle, #sidebar, footer {
