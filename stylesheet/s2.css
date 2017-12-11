@@ -7,7 +7,7 @@ body {
 
 #pagewrap {
 	padding: 5px;
-	width: 960px;
+	width: 992px;
 	margin: 20px auto;
 }
 header {
@@ -40,8 +40,8 @@ footer {
 /************************************************************************************
 MEDIA QUERIES
 *************************************************************************************/
-/* for 980px or less */
-@media screen and (max-width: 980px) {
+/* for 992px or less */
+@media screen and (max-width: 992px) {
 	
 	#pagewrap {
 		width: 94%;
@@ -69,8 +69,8 @@ MEDIA QUERIES
 	}
 }
 
-/* for 700px or less */
-@media screen and (max-width: 600px) {
+/* for 991px or less */
+@media screen and (max-width: 991px) {
 
 	#content {
 		width: auto;
@@ -90,8 +90,8 @@ MEDIA QUERIES
 
 }
 
-/* for 480px or less */
-@media screen and (max-width: 480px) {
+/* for 767px or less */
+@media screen and (max-width: 767px) {
 
 	header {
 		height: auto;
